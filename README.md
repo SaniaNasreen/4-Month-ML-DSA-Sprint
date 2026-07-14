@@ -19,4 +19,4 @@
 
 ## 🚀 Coding Practice & DSA Log
 All my daily automated LeetCode solutions are tracked here: 
-👉 [Sania's Automated LeetCode Tracker](https://github.com/SaniaNasreen/Leetcode-Solves)
+👉 [My Automated LeetCode Tracker](https://github.com/SaniaNasreen/Leetcode-Solves)
