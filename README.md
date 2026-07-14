@@ -16,3 +16,7 @@
 ## 🛠️ Portfolio Deliverables
 - [ ] Month 2: Advanced RAG Ingestion Engine (LangChain + Vector DB)
 - [ ] Month 3: Production-grade End-to-End Applied ML System (API + Docker)
+
+## 🚀 Coding Practice & DSA Log
+All my daily automated LeetCode solutions are tracked here: 
+👉 [Sania's Automated LeetCode Tracker](https://github.com/SaniaNasreen/Leetcode-Solves)
